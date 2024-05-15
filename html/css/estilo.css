@@ -1,0 +1,58 @@
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h3 {
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    color: #fff;
+}
+
+div {
+
+    display: block;
+    padding-left: 50px;
+    padding-bottom: 308.391px;
+    padding-left: 154.195px;
+    padding-right: 308.391px;
+    padding-top: 308.391px;
+    font-size: 150%;
+
+
+  
+}
+input {
+    padding: 2%;
+    padding-left: 3%;
+
+
+}
+
+
+ 
