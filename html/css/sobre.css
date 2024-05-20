@@ -21,8 +21,18 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-section {
 
+section {
+    padding-left:200px ;
     height: 757px;
     width: 514;
+}
+
+aside {
+    position: fixed;
+    top: 112;
+    left: 1011;
+    
+    
+
 }
